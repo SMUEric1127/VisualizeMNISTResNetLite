@@ -9,9 +9,9 @@ The model implemented the skip connection concept from ResNet architecture with 
 
 [![skip-Connection.png](https://i.postimg.cc/4xBMrgzp/skip-Connection.png)](https://postimg.cc/yD3vZ2pN)
 
-Here's the model summary:
+Below is the model summary, I trained it on my desktop using graphics card GTX1060:
 
-![Screenshot](modelSummary.png)
+[![model-Summary.png](https://i.postimg.cc/fTvg9Nq1/model-Summary.png)](https://postimg.cc/PPPMgBjM)
 
 ## 2. Install requirements:
 ```pip install -r requirements.txt``` - (For Windows)
@@ -24,13 +24,14 @@ First draw a digit from 0 - 9, those digit will then be inferred using the pretr
 **Mode 1: Inference only:**
 
 Select the predict method and you will see the prediction printed out on the command line
-![Screenshot](predict.png)
 
+[![predict.png](https://i.postimg.cc/Wbs5jyp8/predict.png)](https://postimg.cc/c65RBXnt)
 
 **Mode 2: Inference with plots:**
 
 Select the plot method and you will see the plot generated in a new window. However, since the plot is using the library matplotlib, which require some times to generate the plot, you might need to wait around 5 - 10 seconds.
-![Screenshot](plot.png)
+
+[![plot.png](https://i.postimg.cc/ZR3wKty7/plot.png)](https://postimg.cc/dks24f6r)
 
 ## 4. View the model:
 
