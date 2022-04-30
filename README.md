@@ -19,8 +19,14 @@ Select the predict method and you will see the prediction printed out on the com
 **Mode 2: Inference with plots:**
 
 Select the plot method and you will see the plot generated in a new window. However, since the plot is using the library matplotlib, which require some times to generate the plot, you might need to wait around 5 - 10 seconds.
+![Screenshot](plot.png)
 
-## 4. Things can do to improve:
+## 4. View the model:
+
+In order to view the inference model, 
+[I'm an inline-style link](https://netron.app/)
+
+## 5. Things can do to improve:
 
 Since the Tkinter canvas creates a white border when grab the image, so the accuracy might not be high overall. One way to do it is to improve the way I'm cropping the image at the center of the screen.
 
