@@ -7,7 +7,7 @@ I trained a model on the MNIST dataset to detect digits from 0 - 9 with input si
 
 The model implemented the skip connection concept from ResNet architecture with 3 blocks, here's the illustration of the first block using Netron
 
-![Screenshot](skipConnection.png)
+[![skip-Connection.png](https://i.postimg.cc/4xBMrgzp/skip-Connection.png)](https://postimg.cc/yD3vZ2pN)
 
 Here's the model summary:
 
