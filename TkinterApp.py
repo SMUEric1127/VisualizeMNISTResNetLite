@@ -12,7 +12,7 @@ import asyncio
 app = Tk()
 app.geometry("150x150")
 
-a = 10
+a = 5
 
 model = load_model("LiteResnet.h5")
 def get_x_and_y(event):
@@ -141,3 +141,6 @@ canvas.pack(anchor='center', expand=1)
 
 canvas.bind("<Button-1>", get_x_and_y)
 canvas.bind("<B1-Motion>", draw_smth)
+
+while(True):
+    app.mainloop()
