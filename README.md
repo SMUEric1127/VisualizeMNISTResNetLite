@@ -13,6 +13,7 @@ First draw a digit from 0 - 9, those digit will then be inferred using the pretr
 **Mode 1: Inference only:**
 
 Select the predict method and you will see the prediction printed out on the command line
+![alt text](https://ibb.co/pR1XrQ3)
 
 **Mode 2: Inference with plots:**
 
