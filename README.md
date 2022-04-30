@@ -11,8 +11,8 @@ First draw a digit from 0 - 9, those digit will then be inferred using the pretr
 **Note: Please write it at the middle of the screen and avoid write at the border to improve the accuracy 
 
 **Mode 1: Inference only:**
-Select the predict method and you
-will see the prediction printed out on the command line
+
+Select the predict method and you will see the prediction printed out on the command line
 
 **Mode 2: Inference with plots:**
 
