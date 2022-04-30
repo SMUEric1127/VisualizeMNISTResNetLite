@@ -1,6 +1,15 @@
 # Visualize MNIST ResNet Lite
 
 ## 1. Overall:
+This is an implementation of a lite resnet architecture implemented using TensorFlow platform. 
+
+I trained a model on the MNIST dataset to detect digits from 0 - 9 with input size is (28, 28, 1) - the last column indicate the grayscale channel.
+
+The model implemented the skip connection concept from ResNet architecture with 3 blocks, here's the illustration of the first block using Netron
+![Screenshot](skipConnection.png)
+
+Here's the model summary:
+![Screenshot](modelSummary.png)
 
 ## 2. Install requirements:
 ```pip install -r requirements.txt``` - (For Windows)
