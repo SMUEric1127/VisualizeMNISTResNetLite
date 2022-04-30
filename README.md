@@ -23,8 +23,8 @@ Select the plot method and you will see the plot generated in a new window. Howe
 
 ## 4. View the model:
 
-In order to view the inference model, 
-[I'm an inline-style link](https://netron.app/)
+In order to view the inference model, you can drag the LiteResNet.h5 model file to visualize it
+[Lutz Roeder's Netron](https://netron.app/)
 
 ## 5. Things can do to improve:
 
