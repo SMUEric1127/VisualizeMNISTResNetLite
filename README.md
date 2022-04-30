@@ -1,1 +1,1 @@
-# VisualizeMNISTResNetLite
+# Visualize MNIST ResNet Lite
