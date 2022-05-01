@@ -43,3 +43,12 @@ In order to view the inference model, you can drag the LiteResNet.h5 model file 
 Since the Tkinter canvas creates a white border when grab the image, so the accuracy might not be high overall. One way to do it is to improve the way I'm cropping the image at the center of the screen.
 
 Other way to improve is to improve the drawing method, when we draw too fast, the canvas update slower than our gesture speed which will reduce the picture's quality overall.
+
+## Citation:
+@article{He2016DeepRL,
+  title={Deep Residual Learning for Image Recognition},
+  author={Kaiming He and X. Zhang and Shaoqing Ren and Jian Sun},
+  journal={2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2016},
+  pages={770-778}
+}
