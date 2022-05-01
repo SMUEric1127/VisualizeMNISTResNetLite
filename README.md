@@ -1,4 +1,4 @@
-# Visualize MNIST ResNet Lite
+# Visualize MNIST implementing ResNet Lite
 
 ## 1. Overall:
 This is an implementation of a lite resnet architecture implemented using TensorFlow platform. 
